@@ -112,6 +112,9 @@
         height: 80vh;
         background-position: top;
         background-size: 100% 40%;
+        padding-left: 100px;
+        padding-top: 60px;   
+        padding-bottom: 0;     
         display: flex;
         justify-content: flex-end;
         align-items: flex-end;
@@ -125,11 +128,12 @@
         margin-left: -120px;
     }
     .right-wrapper-top h3{
-        font-size: 17px;
+        font-size: 15px;
         font-weight: 700;
+        margin-top: 50px;
     }
     .right-wrapper-top p{
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 400;
     }
     .right-wrapper-bottom {
